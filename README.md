@@ -14,4 +14,6 @@ Username:guest4
 password:guest4
 
 
+ScreenShots were taken BY downloading the printed Version of the site . Not 100% accurate example the footer is out of line .
+
 All rights reservered. :)
