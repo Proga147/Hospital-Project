@@ -2,9 +2,6 @@ CLICK HERE :- [ScreenShots.pdf](https://github.com/SProga/Hospital-Project/files
 # Hospital-Project
 A template of a hospital Used for Accident and Emergency Services with a mini CMS for guests and admin users
 
-This application was created by Shane Proverbs,
-No copying or stealing.
-
 adminUser Credentials:
 (Signin Portal)
 Username: mblack
