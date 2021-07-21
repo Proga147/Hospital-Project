@@ -1,6 +1,6 @@
 CLICK HERE :- [ScreenShots.pdf](https://github.com/SProga/Hospital-Project/files/6852160/ScreenShots.pdf)
 # Hospital-Project
-A template of a hospital Used for Accident and Emergency Services with a mini CMS for guests and admin users
+A template of a hospital Used for Accident and Emergency Services with a mini CMS for managing guests and admin users
 
 adminUser Credentials:
 (Signin Portal)
