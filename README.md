@@ -1,4 +1,4 @@
-CLICK HERE :- [ScreenShots.pdf](https://github.com/SProga/Hospital-Project/files/6852708/ScreenShots.pdf)
+CLICK HERE TO DOWNLOAD PDF :- [ScreenShots.pdf](https://github.com/SProga/Hospital-Project/files/6852708/ScreenShots.pdf)
 
 
 # Hospital-Project
