@@ -1,4 +1,5 @@
-CLICK HERE :- [ScreenShots.pdf](https://github.com/SProga/Hospital-Project/files/6852523/ScreenShots.pdf)
+CLICK HERE :- [ScreenShots.pdf](https://github.com/SProga/Hospital-Project/files/6852708/ScreenShots.pdf)
+
 
 # Hospital-Project
 A template of a hospital Used for Accident and Emergency Services with a mini CMS for managing guests,admin users and FAQs 
