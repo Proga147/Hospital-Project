@@ -14,3 +14,5 @@ Username:guest4
 password:guest4
 
 All rights reservered. :)
+
+<img src="./hospital.png" />
