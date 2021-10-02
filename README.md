@@ -15,4 +15,4 @@ password:guest4
 
 All rights reservered. :)
 
-<img src="./hospital.png" />
+<img src="./home.png" />
