@@ -15,4 +15,4 @@ password:guest4
 
 All rights reservered. :)
 
-<img src="./home.png" />
+<a href="http://bettercare.infinityfreeapp.com/"><img src="./home.png" /></a>
