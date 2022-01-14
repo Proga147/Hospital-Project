@@ -3,7 +3,9 @@ CLICK HERE TO DOWNLOAD PDF :- [ScreenShots.pdf](https://github.com/SProga/Hospit
 
 
 # Hospital-Project
-A template of a hospital Used for Accident and Emergency Services with a mini CMS for managing guests,admin users and FAQs 
+A template of a hospital Used for Accident and Emergency Services with a mini CMS for managing guests,admin users and FAQs . 
+
+Created using PHP, Bootstrap and MYSQL .
 
 adminUser Credentials:
 (Signin Portal)
